@@ -1,0 +1,19 @@
+Algoritmo Numero_Exacto_Mayor_O_Menor
+	n1 = 0
+	
+	Escribir "Dame el numero: "
+	leer n1
+	
+	si n1 < 500
+		Escribir "Chico"
+	FinSi
+	
+	
+	si n1 > 500
+		Escribir "Grande"
+	FinSi
+	
+	Si n1 == 500
+		Escribir "Exacto"
+	FinSi
+FinAlgoritmo
